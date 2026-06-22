@@ -9,10 +9,10 @@ For every item:
 1. Init
    - [x] Scaffold app with Vite (React + TypeScript) using Node.js v24 LTS
    - [x] Add basic `Hello World` page and route
-   - [ ] Commit lockfile and add `.gitignore`
-   - [ ] Add minimal README (run, build, deploy)
-   - [ ] Add ESLint (typescript, react hooks) and Prettier with scripts
-   - [ ] Enable TypeScript strict mode
+   - [x] Commit lockfile and add `.gitignore`
+   - [x] Add minimal README (run, build, deploy)
+   - [x] Add ESLint (typescript, react hooks) and Prettier with scripts
+   - [x] Enable TypeScript strict mode
 
 2. CI pipeline
    - [ ] Initialize GitHub repository and push
