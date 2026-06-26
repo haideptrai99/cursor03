@@ -1,6 +1,8 @@
-import { describe, it, expect } from '@jest/globals';
+import React from 'react';
+import '@testing-library/jest-dom';
 import { render, screen } from '@testing-library/react';
 import { HelloWorld } from '../pages/HelloWorld';
+
 
 describe('HelloWorld', () => {
   it('renders the heading', () => {
